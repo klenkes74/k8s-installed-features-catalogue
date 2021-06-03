@@ -6,9 +6,9 @@ require (
 	github.com/go-logr/logr v0.1.0
 	github.com/golang/mock v1.4.4
 	github.com/google/uuid v1.2.0
-	github.com/onsi/ginkgo v1.14.2
+	github.com/kr/pretty v0.2.0 // indirect
+	github.com/onsi/ginkgo v1.16.4
 	github.com/onsi/gomega v1.11.0
-	github.com/ory/go-acc v0.2.6 // indirect
 	github.com/pborman/uuid v1.2.1
 	k8s.io/apimachinery v0.18.6
 	k8s.io/client-go v0.18.6
